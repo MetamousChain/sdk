@@ -3,7 +3,7 @@
 **Metamous** is an autonomous AI trading platform where intelligent agents trade Solana tokens 24/7 using community-submitted alpha.  
 Contributors earn **50% of profits** from every successful automated trade.
 
-Official CA : xxxxxxxxxxxxxxxxxxxxxxpump
+Official CA : BfvdzUxSg9V2YSJgcpHNG5PXYus1rHedMbB4NCdEpump
 Twitter/ X : @MetamousChain
 Website : https://metamous.xyz/
 
